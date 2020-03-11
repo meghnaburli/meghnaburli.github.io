@@ -1,3 +1,3 @@
 # meghnaburli.github.io
-WebPage for Meghna Burli
+Web Page for Meghna Burli
 
